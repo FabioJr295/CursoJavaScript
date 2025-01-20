@@ -14,3 +14,5 @@ const mensagem2 = 'Mundo Olá!'
 // ele quebra a mensagem com os espaços, ou co alguma letra que podemos colocar (lembrando que ele apagará a letra), quebra em array
 //console.log(mensagem.split(''));
 
+// Se usar o toUpperCase, todas as letras ficam em caixa alta
+// Se usar o toLowerCase, todas as letras ficam em caixa baixa
